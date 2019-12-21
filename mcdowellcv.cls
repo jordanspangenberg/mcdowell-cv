@@ -23,10 +23,10 @@
 
 % Set up the fonts according to options
 \def\mainfontsize{11pt}
-\def\mainfontface{Times New Roman}
+\def\mainfontface{Calibri}
 
 \DeclareOption{calibri}{%
-  \def\mainfontface{Calibri}
+  \def\mainfontface{Helvetica}
 }
 
 \ProcessOptions\relax
